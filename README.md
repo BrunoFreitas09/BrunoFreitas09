@@ -2,7 +2,7 @@
 
 <p > <align="left"> 
   Olá meu nome é Bruno e pretendo me aperfeiçoar na parte de <strong> Desenvolvedor FullStack</strong>.<br>
-  Estou fazendo o curso de <strong>Desenvolvimento de Sistemas </strong>na ETEC Joaquim Ferreira do Amaral em Jaú.  👀😎
+  Estou fazendo o curso de <strong>Desenvolvimento de Sistemas </strong>na ETEC Joaquim Ferreira do Amaral em Jaú.  
 </p>
 <strong>Formas de contato:</strong>
 
