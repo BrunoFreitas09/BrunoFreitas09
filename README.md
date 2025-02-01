@@ -12,7 +12,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFreitas09&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFreitas09&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFreitas09&hide_progress=true&theme=dracula)
 
 <strong><h2>Linguagens utilizadas:</h2></strong>
 
