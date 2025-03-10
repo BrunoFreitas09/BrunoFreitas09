@@ -11,7 +11,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFreitas09&show_icons=true&theme=dracula)<p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFreitas09&layout=compact&icons=true&theme=dracula)
+[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=BrunoFreitas09&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=dracula_icons=true)](https://github.com/saifurrahman1193)
 
 
 
