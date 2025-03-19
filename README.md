@@ -10,7 +10,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freitas-620ba82b3/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFreitas09&show_icons=true&theme=dracula)<p>
+  <a href="https://github.com/Brunofreitas09/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Brunofreitas09&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff79c6&hide=html,scss,less&bg_color=282a36&text_color=f8f8f2&border_radius=3&border_color=bd93f9" alt="Most Used Languages">
+  </a>
+</div>
 
 
 
