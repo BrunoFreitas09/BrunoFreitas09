@@ -35,7 +35,7 @@
 <h2><strong> Ferramentas utilizadas 🛸:</strong></h2>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=visualstudio,vscode,github" />
-  <img src="https://skillicons.dev/icons?i=git,git,git" />
+  <img src="https://skillicons.dev/icons?i=git" />
   
 </a>
 
