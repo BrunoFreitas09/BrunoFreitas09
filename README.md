@@ -10,13 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-freitas-620ba82b3/)
 
 
-<div style="text-align: center;" align="Left">
 
-![BrunoFreitas09 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFreitas09&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFreitas09&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 <strong><h2>Linguagens utilizadas:</h2></strong>
 
