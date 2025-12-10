@@ -12,9 +12,6 @@
 
 <div style="text-align: center;" align="Left">
 
- ![BrunoFreitas09 GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoFreitas09&show_icons=true&theme=dark&hide_border=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoFreitas09&layout-vertical&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
