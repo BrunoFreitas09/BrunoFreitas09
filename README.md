@@ -1,6 +1,7 @@
 <p align="left">
   Olá, meu nome é Bruno e pretendo me aperfeiçoar na parte de <strong>Desenvolvedor back-end </strong>.<br>
-  Estou fazendo o curso de <strong>Desenvolvimento de Sistemas</strong> na ETEC Joaquim Ferreira do Amaral em Jaú.
+  Atualmente estou cursando o curso de inteligência artificial da Universidade Federal do Mato Grosso do Sul e sou formado em <strong>Desenvolvimento de Sistemas</strong> na ETEC Joaquim Ferreira do Amaral em Jaú.
+  Programador back-End C# na STi3 Sistemas.
 </p>
 
 <strong>Formas de contato:</strong>
